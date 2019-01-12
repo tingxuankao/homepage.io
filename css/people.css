@@ -1,0 +1,132 @@
+.container marquee {
+    margin-top: 25px;
+    height: 40px;
+    width: 500px;
+}
+
+.bg {
+    background-color: cadetblue;
+    height: 400px;
+}
+
+#img1 {
+    position: absolute;
+    width: 1110px;
+    height: 340px;
+    z-index: 1;
+    box-shadow: 3px 3px 12px rgba(7, 7, 7, 0.267);
+}
+
+#img2 {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 450px;
+    z-index: 2;
+}
+
+.data {
+    background-color: rgba(217, 172, 66, 0.596);
+    height: 450px;
+    border-radius: 5px;
+}
+
+.data2 {
+    position: relative;
+    height: 95%;
+    width: 95%;
+    background-color: rgba(248, 247, 246, 0.562);
+    margin: auto;
+    top: 10px;
+    padding: 50px;
+    box-shadow: 3px 3px 10px rgba(7, 7, 7, 0.267);
+}
+
+#id_footer {
+    height: 250px;
+    width: 75%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    bottom: 0;
+    background-color: rgb(88, 88, 88);
+    box-shadow: 3px 3px 12px rgba(7, 7, 7, 0.267);
+}
+
+#id_footer a {
+    text-decoration: none;
+    color: black;
+}
+
+#id_footer a:hover {
+    text-decoration: underline;
+    color: gray;
+}
+
+.row {
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.row p {
+    font-size: 1.5em;
+}
+
+.info {
+    margin-right: 5em;
+    float: left;
+    margin-left: 2em;
+    margin-top: 1em;
+    font-size: 60%;
+    ;
+}
+
+.dropdown-menu a:hover {
+    color: white;
+    background-color: rgba(105, 105, 105, 0.637);
+    text-decoration: underline;
+}
+
+#div31 {
+    float: left;
+    width: 65px;
+    height: 105px;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-size: 13px;
+}
+
+#div32 {
+    float: left;
+    width: 350px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 13px;
+}
+
+#div33 {
+    float: left;
+    width: 60px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 55px;
+    font-size: 13px;
+}
+
+#div34 {
+    float: left;
+    width: 350px;
+    height: 100px;
+    margin-left: 50px;
+    margin-top: 60px;
+    font-size: 13px;
+}
+
+#div35 {
+    margin: 0 auto;
+    width: 700px;
+    height: 100px;
+    margin-top: 40px;
+    font-size: 13px;
+}
